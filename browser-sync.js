@@ -19,4 +19,6 @@ module.exports = {
       */
 	files: ['dist/**/*.css', 'dist/js/*.js', 'dist/**/*.html'],
 	serveStatic: ['dist'],
+      port: 4000,
+      cors:true
 };
