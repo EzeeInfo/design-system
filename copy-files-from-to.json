@@ -7,10 +7,6 @@
     {
       "from": "src/*.html",
       "to": "dist"
-    },
-    {
-      "from": "src/layout/*.html",
-      "to": "dist/layout"
     }
   ]
 }
